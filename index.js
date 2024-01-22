@@ -19,5 +19,6 @@ var workerDetails = {
         console.log(this.name);
     }
 };
-
-
+function getUserName(workerDetails) {
+    return workerDetails.age;
+}

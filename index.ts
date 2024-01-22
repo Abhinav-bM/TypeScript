@@ -3,7 +3,7 @@ let college:string  = 'm-DIT'
 
 
 // // defining types (explicit types)
-let myName:string = 'abhinav'
+let myName  = 'abhinav' 
 let subscriber:number = 2000;
 let isSubscribed:boolean = true
 let skills:string[] = ['js','css','ts']
